@@ -1,9 +1,9 @@
-#🌍 FluentNow
-AI-Powered Multilingual Learning Assistant
+**🌍 FluentNow
+AI-Powered Multilingual Learning Assistant**
 
 FluentNow is a real-time speech and translation platform designed to break language barriers and enable seamless multilingual communication. The system leverages advanced NLP pipelines and real-time processing to create an interactive, personalized language learning experience.
 
-🚀 Overview
+**🚀 Overview**
 
 FluentNow enables users to:
 
@@ -19,7 +19,7 @@ FluentNow enables users to:
 
 The project focuses on accessibility, personalization, and real-world multilingual communication.
 
-🧠 Key Features
+**🧠 Key Features**
 🔹 Real-Time Speech Processing
 
 Live speech-to-text transcription
@@ -54,7 +54,7 @@ Context-aware translation for improved accuracy
 
 Supports multilingual academic and professional content
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python
 
@@ -78,7 +78,7 @@ Accent Customization Engine
 ⬇
 Real-Time Output (Text + Speech)
 
-📌 What I Learned
+**📌 What I Learned**
 
 Designing end-to-end NLP pipelines
 
@@ -90,11 +90,11 @@ Building user-centric AI experiences
 
 Deploying multilingual AI systems
 
-🌎 Impact
+**🌎 Impact**
 
 FluentNow demonstrates how AI can make language learning more accessible, interactive, and inclusive. By combining speech processing, translation, and personalization, the platform empowers users to communicate confidently across languages.
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 Offline mode support
 
