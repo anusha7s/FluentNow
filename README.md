@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+#🌍 FluentNow
+AI-Powered Multilingual Learning Assistant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FluentNow is a real-time speech and translation platform designed to break language barriers and enable seamless multilingual communication. The system leverages advanced NLP pipelines and real-time processing to create an interactive, personalized language learning experience.
 
-## Available Scripts
+🚀 Overview
 
-In the project directory, you can run:
+FluentNow enables users to:
 
-### `npm start`
+🎙️ Convert speech to text in real time
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🌐 Translate across multiple languages instantly
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🗣️ Customize accents for personalized learning
 
-### `npm test`
+📄 Translate documents for contextual understanding
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📚 Learn languages interactively using AI-driven assistance
 
-### `npm run build`
+The project focuses on accessibility, personalization, and real-world multilingual communication.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🧠 Key Features
+🔹 Real-Time Speech Processing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Live speech-to-text transcription
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Instant translation across supported languages
 
-### `npm run eject`
+Low-latency processing for smooth interaction
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔹 NLP Pipeline Integration
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Tokenization and text preprocessing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Language detection
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Transformer-based translation models
 
-## Learn More
+Context-aware response generation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🔹 Accent Customization
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Personalized pronunciation outputs
 
-### Code Splitting
+Region-specific accent variations
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Improved listening and speaking practice
 
-### Analyzing the Bundle Size
+🔹 Document-Based Translation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Upload and translate documents
 
-### Making a Progressive Web App
+Context-aware translation for improved accuracy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Supports multilingual academic and professional content
 
-### Advanced Configuration
+🛠️ Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Python
 
-### Deployment
+Machine Learning & NLP
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Speech Recognition APIs
 
-### `npm run build` fails to minify
+Transformer-based Models
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Real-Time Processing Pipelines
+
+🏗️ System Architecture
+
+User Speech / Document
+⬇
+Speech Recognition / Text Extraction
+⬇
+NLP Pipeline (Preprocessing + Translation Model)
+⬇
+Accent Customization Engine
+⬇
+Real-Time Output (Text + Speech)
+
+📌 What I Learned
+
+Designing end-to-end NLP pipelines
+
+Implementing real-time AI processing systems
+
+Optimizing latency in speech-based applications
+
+Building user-centric AI experiences
+
+Deploying multilingual AI systems
+
+🌎 Impact
+
+FluentNow demonstrates how AI can make language learning more accessible, interactive, and inclusive. By combining speech processing, translation, and personalization, the platform empowers users to communicate confidently across languages.
+
+🔮 Future Improvements
+
+Offline mode support
+
+Enhanced accent realism using advanced TTS
+
+Mobile application version
+
+Adaptive learning recommendations
+
+MLOps-based deployment pipeline
